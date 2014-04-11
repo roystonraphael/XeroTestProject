@@ -1,0 +1,6 @@
+This is a test project for Xero's Repeater component.
+
+Run the RepeaterInvoiceOrderedTest to run all the tests within Internet Explorer. Will require
+Visual Studio Premium or Ultimate.
+
+Has been tested on Internet Explorer 10.
