@@ -1,0 +1,4 @@
+InvoiceTo,Reference,InvoiceDate,DateDue,Item
+Invoice1,Repeat Invoice Test, 30 Apr 2015,15,GB1-White
+Test2,Repeat Invoice Test, 30 May 2014,14,PR-BR
+Info3,Repeat Invoice Test, 30 Jun 2015,13,Support-M

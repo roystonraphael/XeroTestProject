@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="repeaterinvoiceorderedtest" storage="c:\users\roystonr\documents\visual studio 2012\projects\xerofinal\xeroproject\xeroproject\orderedtests\repeaterinvoiceorderedtest.orderedtest" id="eabc90b2-e815-4796-bf95-e3f76de0b689" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="877c137d-49a5-c799-a6c3-06e6c4ee9ac5" name="CheckInvoiceDoesNotSaveOnRequiredFieldMissing" storage="..\bin\debug\xeroproject.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6216fe79-4a03-9707-93a4-ec72dac26d10" name="CheckValuesOfLabelsForAInvoice" storage="..\bin\debug\xeroproject.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="00667d0c-a8db-0c0d-ee80-5043ef022597" name="CheckRowOnCellDeletedAfterPopulated" storage="..\bin\debug\xeroproject.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="a2ae3255-93e4-97c6-9215-52aebf073cb5" name="SaveReapeatingInvoices" storage="..\bin\debug\xeroproject.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
